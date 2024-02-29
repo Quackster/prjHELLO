@@ -45,6 +45,12 @@ Since many are more interested in the features than the backstory, here they are
     }
     ```
 
+**Screenshots** 
+
+![oG3dnS](https://github.com/Quackster/prjHELLO/assets/1328523/ddcdf591-cf0b-4444-ac30-3fae158b7e2c)
+
+![room_pubv1](https://github.com/Quackster/prjHELLO/assets/1328523/cfac47ae-3154-48ac-94c3-f5a5d4f2b391)
+
 **Why is the project called HELLO?**
 
 The short answer is that HELLO is today's <policy... handshake packet. V1 had no encryption, so why not name a server that has so much similarity to the protocol, cool huh? :D
