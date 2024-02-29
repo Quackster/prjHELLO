@@ -1,0 +1,33 @@
+C:\Users\Erwin\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Erwin\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Erwin\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Erwin\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Erwin\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Erwin\Documents\# # prjOwnage\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Erwin\Documents\# # prjOwnage\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Erwin\Documents\# # prjOwnage\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Erwin\Documents\# # prjOwnage\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Erwin\Documents\# # prjOwnage\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjYoung\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjYoung\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjYoung\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjYoung\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjYoung\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjYoung\ConsoleApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjHELLO - MySQL\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjHELLO - MySQL\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjHELLO - MySQL\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjHELLO - MySQL\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjHELLO - MySQL\ConsoleApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\prjHELLO - MySQL\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\r3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\r3\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\r3\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\r3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\r3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Alex\Desktop\Projects\C#\Projects\prjYoung\r3\ConsoleApplication1\bin\Debug\MySql.Data.dll

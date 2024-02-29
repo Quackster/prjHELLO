@@ -1,0 +1,84 @@
+body
+{
+	color: white;
+	background-color: black;
+	text-align: left;
+}
+
+#inline
+{
+	display: inline;
+	float: right;
+}
+
+body[isFront="1"]
+{
+		background-image: url(black.gif);
+}
+
+table
+{
+	border: 0px solid white;
+}
+
+tr, td
+{
+	border: 1px solid white;
+	background-color: black;
+}
+
+.under_box
+{
+	overflow: auto;
+	padding: 3px 3px 3px 3px;
+	vertical-align: top;
+	width: 700px;
+	height: 350px;
+}
+
+.menu_box
+{
+	padding: 5px 5px 5px 5px;
+	width: 700px;
+	height: 35px;
+}
+
+input, textarea, select, option
+{
+	padding: 3px 3px 3px 3px;
+	border: 1px solid white;
+	background-color: black;
+	color: white;
+	outline: none;
+	resize: none;
+}
+
+#newsBox
+{
+	height: 450px;
+	width: 650px;
+}
+
+iframe
+{
+	border: 0px;
+	overflow: hidden;
+}
+
+.iArea
+{
+	height: 450px;
+	width: 500px;
+}
+
+a, a:hover, a:active, a:visited
+{
+	color: white;
+}
+
+.hide { display: none; }
+.show { display: block; }
+
+a:hover {
+font-weight: bold;
+}

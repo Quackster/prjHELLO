@@ -1,0 +1,106 @@
+-- phpMyAdmin SQL Dump
+-- version 3.2.4
+-- http://www.phpmyadmin.net
+--
+-- Host: localhost
+-- Generation Time: Jun 26, 2011 at 12:18 AM
+-- Server version: 5.1.41
+-- PHP Version: 5.3.1
+
+SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+
+--
+-- Database: `young`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `members`
+--
+
+CREATE TABLE IF NOT EXISTS `members` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `username` varchar(150) NOT NULL,
+  `password` varchar(150) NOT NULL,
+  `role` int(40) NOT NULL,
+  `email` varchar(255) NOT NULL,
+  `coins` int(255) NOT NULL,
+  `motto` varchar(150) NOT NULL,
+  `console_motto` varchar(150) NOT NULL,
+  `figure` varchar(500) NOT NULL,
+  `birthday` varchar(150) NOT NULL,
+  `country` varchar(150) NOT NULL,
+  `sex` varchar(10) NOT NULL,
+  `badge` int(255) NOT NULL,
+  `had_read_agreement` int(10) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+
+--
+-- Dumping data for table `members`
+--
+
+INSERT INTO `members` (`id`, `username`, `password`, `role`, `email`, `coins`, `motto`, `console_motto`, `figure`, `birthday`, `country`, `sex`, `badge`, `had_read_agreement`) VALUES
+(1, 'Alex', 'lolwut', 7, 'hehe@woo.com', 1337, 'My name is cake.', 'HeyHey plz', 'sd=001/0&hr=001/255,255,255&hd=002/255,204,153&ey=001/0&fc=001/255,204,153&bd=001/255,204,153&lh=001/255,204,153&rh=001/255,204,153&ch=001/232,177,55&ls=001/232,177,55&rs=001/232,177,55&lg=001/119,159,187&sh=003/121,94,83', '06/07/1997', 'AU', 'Male', 0, 1),
+(2, 'Lolol', 'lol', 1, 'emo@haha.com', 1234, 'lol', 'lol', 'sd=001/0&hr=001/255,255,255&hd=002/255,204,153&ey=001/0&fc=001/255,204,153&bd=001/255,204,153&lh=001/255,204,153&rh=001/255,204,153&ch=001/232,177,55&ls=001/232,177,55&rs=001/232,177,55&lg=001/119,159,187&sh=003/121,94,83', '05.09.1992', 'AU', 'Female', 0, 1);
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `rooms_private`
+--
+
+CREATE TABLE IF NOT EXISTS `rooms_private` (
+  `id` int(11) NOT NULL AUTO_INCREMENT,
+  `name` varchar(150) NOT NULL,
+  `owner` varchar(150) NOT NULL,
+  `password` varchar(150) NOT NULL,
+  `status` varchar(150) NOT NULL COMMENT 'open / closed',
+  `model` varchar(150) NOT NULL,
+  `desc` varchar(150) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=3 ;
+
+--
+-- Dumping data for table `rooms_private`
+--
+
+INSERT INTO `rooms_private` (`id`, `name`, `owner`, `password`, `status`, `model`, `desc`) VALUES
+(1, 'My secret room biatches', 'Alex', '', 'open', 'model_b', 'loled!'),
+(2, 'Join the lulz', 'Alex', '', 'open', 'model_a', 'Wanna fight meh?');
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `rooms_public`
+--
+
+CREATE TABLE IF NOT EXISTS `rooms_public` (
+  `id` int(255) NOT NULL AUTO_INCREMENT,
+  `name` varchar(250) NOT NULL,
+  `model` varchar(250) NOT NULL,
+  `max_in` int(255) NOT NULL,
+  `curr_in` int(255) NOT NULL,
+  `name_tolower` varchar(250) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=5 ;
+
+--
+-- Dumping data for table `rooms_public`
+--
+
+INSERT INTO `rooms_public` (`id`, `name`, `model`, `max_in`, `curr_in`, `name_tolower`) VALUES
+(1, 'Habbo Lido', 'pool_a', 25, 0, 'lido'),
+(2, 'Hotel Kitchen', 'cr_kitchen', 25, 0, 'kitchen'),
+(3, 'The Dirty Duck Pub', 'pub_a', 25, 0, 'pub');
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

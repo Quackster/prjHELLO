@@ -1,0 +1,28 @@
+
+Hey dude ;)
+
+This little CMS was made by Wirbelwind
+for Quackster for his lovely Hello Project !
+
+No credits is needed for that ;)
+
+You can use it, the ways you like :P
+
+
+BRING BACK OLD-OLDSCHOOL RETRO TO LIFE ! (^_^)
+
+
+
+
+
+
+
+
+
+
+
+ps : don't forget, to completethe 
+//data/config.php
+and
+//client.php
+files ;)
